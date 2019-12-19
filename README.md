@@ -4,7 +4,7 @@ Download folder and execute command in project folder:
 
 npm i redux react-redux
 
-Deployed:
+Deployed: https://juhan-react-redux-notes-app.herokuapp.com/
 
 # React-Redux Notes Application
 
