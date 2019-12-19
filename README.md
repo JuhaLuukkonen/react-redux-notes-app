@@ -1,3 +1,11 @@
+Author/editor: Juha Luukkonen
+
+Download folder and execute command in project folder:
+
+npm i redux react-redux
+
+Deployed:
+
 # React-Redux Notes Application
 
 This is the official repository of the application built in the second part of the Medium article  
