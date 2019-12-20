@@ -8,7 +8,7 @@ npm i redux react-redux
 
 (seems to need execute with: 'npm audit fix' to fix dependencies)
 
-Deployed later: https://juhan-react-redux-notes-app.herokuapp.com/
+Deployed: https://juhan-react-redux-notes-app.herokuapp.com/
 
 # React-Redux Notes Application
 
