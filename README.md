@@ -6,7 +6,9 @@ Download folder and execute following command in project folder:
 
 npm i redux react-redux
 
-Deployed: https://juhan-react-redux-notes-app.herokuapp.com/
+(seems to need execute with: 'npm audit fix' to fix dependencies)
+
+Deployed later: https://juhan-react-redux-notes-app.herokuapp.com/
 
 # React-Redux Notes Application
 
