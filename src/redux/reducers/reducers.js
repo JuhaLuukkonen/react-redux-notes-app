@@ -18,7 +18,7 @@ function rootReducer(state = initialState, action) {
       };
     case REMOVE_NOTE:
       return {
-        notes: state.notes.filter((note, index) => index != action.id)
+        notes: state.notes.filter((note, index) => index !== action.id)
       };
 
     default:
