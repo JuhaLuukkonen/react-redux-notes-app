@@ -6,7 +6,7 @@ export default class Notes extends Component {
   render() {
     return (
       <React.Fragment>
-        <h1>React Redux Notes App</h1>
+        <h1>Notes App With Location</h1>
 
         <NotesForm />
         <hr />
