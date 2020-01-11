@@ -10,6 +10,9 @@ npm i redux react-redux
 
 Deployed: https://juhan-react-redux-notes-app.herokuapp.com/
 
+You can change destination folder from browsers extra settings and from 
+downloads section to ask where and what format to save(gif, png, jpg, jpeg)
+
 # React-Redux Notes Application
 
 This is the official repository of the application built in the second part of the Medium article  
@@ -23,4 +26,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To run the app, simply run  
 `npm start`
 
-![](https://drive.google.com/file/d/1nhvCDqqMLV_8tykaFit1xTDQyUDKR9yA/view)
+https://drive.google.com/file/d/1nhvCDqqMLV_8tykaFit1xTDQyUDKR9yA/view
