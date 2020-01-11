@@ -23,4 +23,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To run the app, simply run  
 `npm start`
 
-![](https://miro.medium.com/max/457/1*NWOmsT2_4MoRuUevioicqg.png)
+![](https://drive.google.com/open?id=1nhvCDqqMLV_8tykaFit1xTDQyUDKR9yA)
