@@ -8,7 +8,7 @@ npm i redux react-redux
 
 (seems to need execute with: 'npm audit fix' to fix dependencies)
 
-Deployed: https://juhan-react-redux-notes-app.herokuapp.com/
+Deployed: <a href="https://juhan-react-redux-notes-app.herokuapp.com/ " target="_blank"></a>
 
 You can change destination folder from browsers extra settings and from 
 downloads section to ask where and what format to save(gif, png, jpg, jpeg)
@@ -26,4 +26,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To run the app, simply run  
 `npm start`
 
-https://drive.google.com/file/d/1VCsvq0wXj3HDinD5A5XOluL6Lex5n-Ec/view
+<a href="https://drive.google.com/file/d/1VCsvq0wXj3HDinD5A5XOluL6Lex5n-Ec/view" target="_blank"></a>
