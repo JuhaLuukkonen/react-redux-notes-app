@@ -1,3 +1,5 @@
+## React-Redux Notes Application
+
 Author: Juha Luukkonen
 
 Node(js) have to be installed when using locally: https://nodejs.org/en/
@@ -12,8 +14,6 @@ Deployed: https://juhan-react-redux-notes-app.herokuapp.com/
 
 You can change destination folder from browsers extra settings and from 
 downloads section to ask where and what format to save(gif, png, jpg, jpeg).
-
-# React-Redux Notes Application
 
 This is the official repository of the application built in the second part of the Medium article  
 *"The only introduction to Redux (and React-Redux) you’ll ever need"*,  
