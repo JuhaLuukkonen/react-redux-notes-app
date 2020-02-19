@@ -15,7 +15,7 @@ Deployed: https://juhan-react-redux-notes-app.herokuapp.com/
 You can change destination folder from browsers extra settings and from 
 downloads section to ask where and what format to save(gif, png, jpg, jpeg).
 
-This is the official repository of the application built in the second part of the Medium article  
+This is the personal repository of the application built in the second part of the Medium article  
 *"The only introduction to Redux (and React-Redux) you’ll ever need"*,  
 which you can find [here](https://medium.com/@h.stevanoski/the-only-introduction-to-redux-and-react-redux-youll-ever-need-8ce5da9e53c6).
 
