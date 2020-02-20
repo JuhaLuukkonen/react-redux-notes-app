@@ -27,3 +27,5 @@ To run the app, simply run
 `npm start`
 
 https://drive.google.com/file/d/1VCsvq0wXj3HDinD5A5XOluL6Lex5n-Ec/view
+
+https://docs.google.com/document/d/1ZAh2A76MFHZSMuriF6XY2O4dqi_qXeCjl9i9BlrUYcA/edit
