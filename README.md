@@ -26,6 +26,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To run the app, simply run  
 `npm start`
 
+# UI
+
 https://drive.google.com/file/d/1VCsvq0wXj3HDinD5A5XOluL6Lex5n-Ec/view
+
+# What is under the hood(fi)
 
 https://docs.google.com/document/d/1ZAh2A76MFHZSMuriF6XY2O4dqi_qXeCjl9i9BlrUYcA/edit
