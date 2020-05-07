@@ -1,7 +1,5 @@
 ## React-Redux Notes Application
 
-Author: Juha Luukkonen
-
 Node(js) have to be installed when using locally: https://nodejs.org/en/
 
 Download folder and execute following command in project folder:
