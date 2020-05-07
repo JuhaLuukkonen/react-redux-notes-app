@@ -189,16 +189,18 @@ $(document).ready(function() {
     <!-- end for button for saving web page -->
 
     <!-- end of saving web page -->          
-          
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+    <!-- testing surveypal feedback system -->
+</br></br>
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+<script type="text/javascript" src="https://surveypal.azureedge.net/frontend/answerform/embed.js" id="srvp-main" env="production"></script>
+<script type="text/javascript">
+  // Will create an iframe and inject it to document
+  srvp.iframe(document.body, {
+    id: 241524305,
+    hash: "5gVfWKLbLgNK_28Zb3qNWS0vO71_7V8q0afN39qchQT4Xw2RjDWGdAdrB5lpQGPL",
+    width: 300,
+    height: 400
+  });
+</script>
   </body>
 </html>
