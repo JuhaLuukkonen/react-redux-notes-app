@@ -22,11 +22,47 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>Notes App with Location</title>
+    
+        <!-- funny parts -->
+    <style media="screen"></style>
+    <script>
+    
+    (function () {
+      let howManyTimes = 0
+      function getRandomArbitrary(min, max) {
+          return Math.random() * (max - min) + min;
+      }
+      function mouseIsOver(event) {
+        howManyTimes++
+        if(howManyTimes == 6) {
+          window.location.href = "https://juhan-react-redux-notes-app.herokuapp.com/"
+        } else if(howManyTimes == 5) {
+          alert('You missed those ones! Reloading page again!')
+        } else {
+          let yPos = getRandomArbitrary(0, window.innerHeight)
+          let xPos  = getRandomArbitrary(0, window.innerWidth)  
+          let link = document.querySelector("a")
+          link.style.position = 'fixed'
+          link.style.top = `${yPos}px`
+          link.style.right = `${xPos}px`
+        }
+      }
+      function ready(event) {
+        let link = document.querySelector("a")
+        link.onmouseover = mouseIsOver
+      }
+      window.onload = ready
+    }())
+    </script>
+    <!-- funny parts -->
   </head>
   <body>
      <!-- Juha, adding google.maps.Map -location, 20.12.2019 -->
         <p><button onclick="getLocation()">Locate</button>          
-     <!-- file saving component -->
+     <!-- file saving component -->          
+          <!-- funny parts -->
+<a href="">SIJAINTISI, KOHDISTA!</a>
+          <!-- funny parts -->
     <div id="wrapper">
      <!-- file saving component -->          
     <div id="mapholder"></div>
