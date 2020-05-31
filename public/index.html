@@ -48,9 +48,9 @@
                         var lon = position.coords.longitude;
                         var latlon = new google.maps.LatLng(lat, lon)
                         var mapholder = document.getElementById('mapholder')
-                        mapholder.style.height = '350px';  // size for desktop
-                        mapholder.style.width = '1250px';  // size for desktop, chrome better, edge makes wider
-                    
+                        mapholder.style.height = '500px';  // location map height
+                        mapholder.style.width = '1400px';  // location map width
+       
                         var myOptions = {
                         center:latlon,zoom:14,
                         mapTypeId:google.maps.MapTypeId.ROADMAP,
