@@ -8,7 +8,7 @@ npm i redux react-redux
 
 (seems to need execute with: 'npm audit fix' to fix dependencies)
 
-Deployed: https://juhan-react-redux-notes-app.herokuapp.com/
+Deployed: https://react-redux-notes-app-oc4b.vercel.app/
 
 You can change destination folder from browsers extra settings and from 
 downloads section to ask where and what format to save(gif, png, jpg, jpeg).
